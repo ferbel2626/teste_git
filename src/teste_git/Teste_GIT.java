@@ -16,7 +16,7 @@ public class Teste_GIT {
      */
     public static void main(String[] args) {
         System.out.println("Inicio do teste");
-        System.out.println("segunda  versão");
+//        System.out.println("segunda  versão");
         System.out.println("Terceira versão");
     }
     
